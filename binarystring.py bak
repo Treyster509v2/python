@@ -1,0 +1,17 @@
+#binarystring.py TT
+def bincon(decimal):
+	print(dec)
+	prin("********)
+	for i in range(8):
+		bin = decimal % 2
+		print(bin)
+	
+def main():
+
+print("INPUT -1 TO EXIT THE PROGRAM")
+print("INPUT A POSITIVE INTEGER LESS THAN 256")
+dec = input(" INPUT AN INTEGER : ")
+bincon(dec)
+
+
+main()
